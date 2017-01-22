@@ -1,0 +1,15 @@
+{
+    "name": "son/patterns2",
+    "authors": [
+        {
+            "name": "Erik Figueiredo",
+            "email": "erik.figueiredo@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SON\\": "src"
+        }
+    }
+}
